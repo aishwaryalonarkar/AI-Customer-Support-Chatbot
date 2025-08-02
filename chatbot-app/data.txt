@@ -1,0 +1,29 @@
+**General Questions**
+
+**Q: What is your product?**
+A: Our product, "InnovateSphere," is a comprehensive project management tool designed to help teams collaborate, manage tasks, and track progress efficiently. It integrates with various tools to streamline your workflow.
+
+**Q: How do I sign up?**
+A: You can sign up by visiting our website's homepage and clicking the "Sign Up" button. You'll be asked to provide your email address and create a password. We also offer signing up with Google or GitHub for your convenience.
+
+**Q: Is there a free trial?**
+A: Yes, we offer a 14-day free trial for all our plans. During the trial, you have access to all the features of the selected plan without any commitment. No credit card is required to start a trial.
+
+**Billing and Subscription**
+
+**Q: How much does it cost?**
+A: We have several pricing plans to fit different needs. Our Basic plan starts at $10 per user/month. The Professional plan is $20 per user/month, and we have an Enterprise plan with custom pricing. You can find more details on our pricing page.
+
+**Q: How can I cancel my subscription?**
+A: You can cancel your subscription at any time from your account settings. Go to the "Billing" tab and you will find the option to cancel. Your subscription will remain active until the end of the current billing period.
+
+**Q: Do you offer refunds?**
+A: We do not offer refunds for partial months of service. If you cancel, you will continue to have access to your account until the end of your subscription period.
+
+**Technical Support**
+
+**Q: How do I contact support?**
+A: You can contact our support team by emailing support@innovatesphere.com or by using the live chat feature available on our website during business hours (9 AM - 5 PM, Mon-Fri).
+
+**Q: What integrations are available?**
+A: InnovateSphere integrates with popular tools like Slack, Google Drive, GitHub, and Trello. We are continuously working on adding new integrations based on user feedback.
