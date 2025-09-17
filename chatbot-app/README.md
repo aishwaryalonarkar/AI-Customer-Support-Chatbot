@@ -123,4 +123,4 @@ The Next.js development server will start, typically on `http://localhost:3000`.
 
 ### Step 4: Open the Chatbot
 
-Open [http://localhost:3000](http://localhost:3000) in your browser. You can now start asking questions!
+Open [http://localhost:3000](http://localhost:3000) in your browser. 
